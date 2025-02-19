@@ -1,0 +1,43 @@
+﻿@model WebApplication1.Models.Seller
+
+<h2>Delete</h2>
+
+<h3>Are you sure that you want delete this seller?</h3>
+
+<div>
+    <h4>
+        Seller
+    </h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(Model => Model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(Model => Model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.Email)
+        <dt>
+                @Html.DisplayNameFor(Model => Model.BirthDate)
+        </dt>
+        <dd>
+                @Html.DisplayFor(Model => Model.BirthDate)
+        <dt>
+                    @Html.DisplayNameFor(Model => Model.BaseSalary)
+        </dt>
+        <dd>
+                    @Html.DisplayFor(Model => Model.BaseSalary)
+        </dd>
+        </dd>
+        </dd>
+    </dl>
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id"/>
+        <input type="submit" value="Delete" class="btn btn-danger"/>
+        <a asp-action="Index">Back to list</a>
+    </form>
+</div>

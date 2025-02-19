@@ -1,0 +1,42 @@
+﻿@model WebApplication1.Models.Seller
+@{
+}
+<div>
+    <h2>Details</h2>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(Model => Model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.Name)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(Model => Model.Email)
+        </dt>
+        <dd>
+            @Html.DisplayFor(Model => Model.Email)
+        <dt>
+                @Html.DisplayNameFor(Model => Model.BirthDate)
+        </dt>
+        <dd>
+                @Html.DisplayFor(Model => Model.BirthDate)
+        <dt>
+                    @Html.DisplayNameFor(Model => Model.BaseSalary)
+        </dt>
+        <dd>
+                    @Html.DisplayFor(Model => Model.BaseSalary)
+        </dd>
+        <dt>
+                    @Html.DisplayNameFor(Model => Model.Departament)
+        </dt>
+        <dd>
+                    @Html.DisplayFor(Model => Model.Departament.Name)
+        </dd>
+        </dd>
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-primary">Edit</a>
+    <a asp-action="Index" class="btn btn-primary">Back To list</a>
+</div>

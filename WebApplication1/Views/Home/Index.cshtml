@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-4">
+    <div class="jumbotron text-center bg-primary text-white p-4 rounded">
+        <h1 class="display-4">Bem-vindo ao Sistema de Gestão</h1>
+        <p class="lead">Gerencie Departamentos, Vendas e Vendedores de forma simples e eficiente.</p>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <i class="bi bi-building fs-1 text-primary"></i>
+                    <h5 class="card-title mt-2">Departamentos</h5>
+                    <p class="card-text">Gerencie os departamentos da sua empresa.</p>
+                    <a asp-controller="Departaments" asp-action="Index" class="btn btn-primary">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <i class="bi bi-cart fs-1 text-success"></i>
+                    <h5 class="card-title mt-2">Vendas</h5>
+                    <p class="card-text">Visualize e registre suas vendas.</p>
+                    <a asp-controller="Vendas" asp-action="Index" class="btn btn-success">Acessar</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card shadow-sm">
+                <div class="card-body text-center">
+                    <i class="bi bi-people fs-1 text-warning"></i>
+                    <h5 class="card-title mt-2">Vendedores</h5>
+                    <p class="card-text">Gerencie os vendedores da sua equipe.</p>
+                    <a asp-controller="Vendedores" asp-action="Index" class="btn btn-warning">Acessar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

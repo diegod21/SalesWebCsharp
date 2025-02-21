@@ -39,4 +39,12 @@
     <Folder Include="Services\NovaPasta1\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\SalesRecords\Create.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\SalesRecords\Create.cshtml" />
+  </ItemGroup>
+
 </Project>

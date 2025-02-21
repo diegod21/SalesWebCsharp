@@ -18,9 +18,7 @@ namespace WebApplication1.Models
         [DataType(DataType.Date)]
         [DisplayFormat(DataFormatString = "{0:dd/MM/yyyy}")]
         public DateTime BirthDate { get; set; }
-        [Required]
-        public Departament Departament { get; set; }
-
+        public Departament? Departament { get; set; }
         public int DepartamentId { get; set; }
 
         public ICollection<SalesRecord> Sales { get; set; } = new List<SalesRecord>();

@@ -3,147 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\salesrecords\\groupingsearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\salesrecords\\simplesearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\departaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departaments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\departamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departamentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\departaments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departaments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\salesrecordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\salesrecordsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\salesrecords\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\departaments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departaments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\departaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\departaments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\departamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\departamentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\exceptions\\integrityexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\departament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\salesrecordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\sellerformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\enums\\salesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\enums\\salesstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\salesrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\salesrecords\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\viewmodels\\salesrecordformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\viewmodels\\salesrecordformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\data\\seddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\seddingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee403ce818ed67fa30a159454694307f057d890a2af605c02ecba5ec167eca2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\sellers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebApplication1\\Controllers\\SalesRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|c:\\users\\pichau\\source\\repos\\webapplication1\\webapplication1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2ED7BBB-AD02-46C1-BE09-3F7BD1A85F64}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\salesrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -153,444 +42,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departaments\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Departaments\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:52:29.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:39:13.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DepartamentsController.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartamentsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartamentsController.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\DepartamentsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\DepartamentsController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAswBAAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:41:34.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:44:01.283Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departaments\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Departaments\\Index.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvxYAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:58:29.817Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:53:46.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T19:29:48.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SimpleSearch.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\SimpleSearch.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAADwv0MAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:41:19.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "GroupingSearch.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\GroupingSearch.cshtml",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:41:38.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SalesRecordsService.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SalesRecordsService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\SalesRecordsService.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SalesRecordsService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\SalesRecordsService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T19:33:18.786Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SalesRecordsController.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalesRecordsController.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SalesRecordsController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAArwC8AAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T18:02:50.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\Index.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T18:04:30.048Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departaments\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Edit.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Departaments\\Edit.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:58:37.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Departaments\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Departaments\\Delete.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Departaments\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:52:35.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-19T14:53:48.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DepartamentService.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\DepartamentService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\DepartamentService.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\DepartamentService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\DepartamentService.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:38:50.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T19:10:45.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IntegrityException.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\IntegrityException.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Exceptions\\IntegrityException.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\IntegrityException.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Exceptions\\IntegrityException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T17:54:26.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DbConcurrencyException.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Exceptions\\DbConcurrencyException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:51:59.442Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Departament.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Departament.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Departament.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Departament.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Departament.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:51:45.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SellerService.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SellerService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\SellerService.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Services\\SellerService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\SellerService.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwAkAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:41:13.545Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T15:56:49.124Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "SellerFormViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:51:39.322Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "SalesRecords.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecords.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalesRecords.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecords.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SalesRecords.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAwC0AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:45:29.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "WebApplication1Context.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Data\\WebApplication1Context.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\WebApplication1Context.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Data\\WebApplication1Context.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\WebApplication1Context.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:46:45.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SalesRecord.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\SalesRecord.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\SalesRecord.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\SalesRecord.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\SalesRecord.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAIwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:01:57.607Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Seller.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Seller.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Seller.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Seller.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Seller.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAwAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:01:58.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "SeddingService.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Data\\SeddingService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Data\\SeddingService.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Data\\SeddingService.cs",
-              "RelativeToolTip": "WebApplication1\\Data\\SeddingService.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:51:11.914Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "SalesStatus.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Enums\\SalesStatus.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Enums\\SalesStatus.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Enums\\SalesStatus.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Enums\\SalesStatus.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:51:30.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\ErrorViewModel.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T13:46:21.201Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "WebApplication1ContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T14:46:25.883Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "SellersController.cs",
               "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SellersController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SellersController.cs",
               "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SellersController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\SellersController.cs",
-              "ViewState": "AQIAAHwAAAAAAAAAAAAYwE0AAAAJAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwCUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T19:22:30.006Z"
+              "WhenOpened": "2025-02-21T16:49:26.835Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-18T13:47:20.789Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Edit.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Edit.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T19:29:27.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pichau\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee403ce818ed67fa30a159454694307f057d890a2af605c02ecba5ec167eca2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee403ce818ed67fa30a159454694307f057d890a2af605c02ecba5ec167eca2\\Program.cs",
-              "ToolTip": "C:\\Users\\Pichau\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee403ce818ed67fa30a159454694307f057d890a2af605c02ecba5ec167eca2\\Program.cs [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1ee403ce818ed67fa30a159454694307f057d890a2af605c02ecba5ec167eca2\\Program.cs [Somente Leitura]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAACAAAA",
+              "DocumentIndex": 2,
+              "Title": "SalesRecordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SalesRecordsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv0MAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T16:10:48.509Z",
-              "EditorCaption": " [Somente Leitura]"
+              "WhenOpened": "2025-02-21T16:48:11.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Details.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Details.cshtml",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAwB8AAAAMAAAA",
+              "DocumentIndex": 3,
+              "Title": "SellerFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\SellerFormViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:46:40.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Seller.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Seller.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:45:01.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SalesRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\SalesRecord.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\SalesRecord.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\SalesRecord.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\SalesRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:44:38.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesRecordFormViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SalesRecordFormViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ViewModels\\SalesRecordFormViewModel.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ViewModels\\SalesRecordFormViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ViewModels\\SalesRecordFormViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:42:54.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\SalesRecords\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\SalesRecords\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\SalesRecords\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-17T18:55:13.411Z"
+              "WhenOpened": "2025-02-21T16:42:05.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-21T16:42:04.004Z",
+              "EditorCaption": ""
             }
           ]
         }

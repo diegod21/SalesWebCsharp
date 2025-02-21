@@ -12,6 +12,12 @@ namespace WebApplication1.Services
             _context = context;
         }
 
+        public async Task SaveAsync(SalesRecord sales)
+        {
+            await _context.AddAsync(sales);
+            _context.SaveChanges();
+        }
+
         public async Task<List<SalesRecord>> FindByDateAsync(DateTime? minDate, DateTime? maxDate)
         {
             var result = from obj in _context.SalesRecord select obj;

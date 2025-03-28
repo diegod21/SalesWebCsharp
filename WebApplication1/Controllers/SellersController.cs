@@ -4,6 +4,7 @@ using WebApplication1.Models;
 using WebApplication1.Models.ViewModels;
 using WebApplication1.Services.Exceptions;
 using System.Diagnostics;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebApplication1.Controllers
 {
@@ -17,7 +18,7 @@ namespace WebApplication1.Controllers
             _sellerService = sellerService;
             _departamentService = departamentService;
         }
-
+        [Authorize]
         public async Task<IActionResult> Index()
         {
             var list = await _sellerService.FindAllAsync();

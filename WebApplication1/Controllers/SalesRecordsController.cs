@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using WebApplication1.Models;
 using WebApplication1.Models.ViewModels;
 using WebApplication1.Services;
@@ -15,7 +16,7 @@ namespace WebApplication1.Controllers
             _salesRecordService = salesRecordService;
             _sellerService = sellerService;
         }
-
+        [Authorize]
         public IActionResult Index()
         {
             return View();

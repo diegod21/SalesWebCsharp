@@ -1,8 +1,10 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Localization;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System.Globalization;
 using WebApplication1.Data;
+using WebApplication1.Models;
 using WebApplication1.Services; // Certifique-se de que o namespace está correto para SeedingService e SellerService
 
 var builder = WebApplication.CreateBuilder(args);
@@ -12,11 +14,27 @@ builder.Services.AddDbContext<WebApplication1Context>(options =>
     options.UseMySql(builder.Configuration.GetConnectionString("WebApplication1Context"),
     ServerVersion.AutoDetect(builder.Configuration.GetConnectionString("WebApplication1Context"))));
 
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>(options =>
+{
+    options.Password.RequireDigit = true;
+    options.Password.RequiredLength = 6;
+    options.Password.RequireNonAlphanumeric = false;
+})
+.AddEntityFrameworkStores<WebApplication1Context>() // Associa o Identity ao banco de dados
+.AddDefaultTokenProviders();
+
+
+
 // Registro dos serviços como Scoped
 builder.Services.AddScoped<SeddingService>();
 builder.Services.AddScoped<SellerService>();
 builder.Services.AddScoped<DepartamentService>();
 builder.Services.AddScoped<SalesRecordsService>();
+builder.Services.AddScoped<UserService>();
+builder.Services.AddScoped<UserManager<ApplicationUser>>();
+builder.Services.AddScoped<SignInManager<ApplicationUser>>();
+
+
 
 // Adiciona os controladores com views
 builder.Services.AddControllersWithViews();
@@ -51,6 +69,7 @@ app.UseStaticFiles();
 
 app.UseRouting();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
